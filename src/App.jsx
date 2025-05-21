@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import { Routes,Route } from "react-router"
 import Home from "./pages/Home"
-import NavBar from "./components/navbar"
+import NavBar from "./components/Navbar"
 import Unavaible from "./pages/Unavaible"
 import Footer from "./components/Footer"
 
