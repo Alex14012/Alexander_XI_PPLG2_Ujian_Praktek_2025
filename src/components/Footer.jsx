@@ -77,19 +77,19 @@ function Footer(){
             </div>
             <div className="flex flex-row gap-3">
             <Link to="/unavaible" class="hover:bg-[#3b5998] rounded-full p-2 bg-white/10 hover:text-white size-8 mt-3" >
-            <img src="/public/img/footer/Facebook.png" alt=""/>
+            <img src="/img/footer/Facebook.png" alt=""/>
             </Link>
             <Link to="/unavaible" class="hover:bg-[#3b5998] rounded-full p-2 bg-white/10 hover:text-white size-8 mt-3" >
-            <img src="/public/img/footer/twitter.png" alt=""/>
+            <img src="/img/footer/twitter.png" alt=""/>
             </Link>
             <Link to="/unavaible" class="hover:bg-[#3b5998] rounded-full p-2 bg-white/10 hover:text-white size-8 mt-3" >
-            <img src="/public/img/footer/telegram.png" alt=""/>
+            <img src="/img/footer/telegram.png" alt=""/>
             </Link>
             <Link to="/unavaible" class="hover:bg-[#3b5998] rounded-full p-2 bg-white/10 hover:text-white size-8 mt-3" >
-            <img src="/public/img/footer/Instagram.png" alt=""/>
+            <img src="/img/footer/Instagram.png" alt=""/>
             </Link>
             <Link to="/unavaible" class="hover:bg-[#3b5998] rounded-full p-2 bg-white/10 hover:text-white size-8 mt-3" >
-            <img src="/public/img/footer/Youtube.png" alt=""/>
+            <img src="/img/footer/Youtube.png" alt=""/>
             </Link>
             </div>
             <p className=" flex flex-row">
